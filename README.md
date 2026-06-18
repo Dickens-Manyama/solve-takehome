@@ -47,7 +47,7 @@ to test the endpoint.
 ```json
 {
   "recipient": "+255700000000",
-  "reply": "Thank you for your interest. Our pricing starts from $7500tsh per month."
+  "reply": "Thank you for your interest. Our pricing starts from 75000tsh per month."
 }
 ```
 
